@@ -1,0 +1,38 @@
+::-moz-selection {
+    /* Code for Firefox */
+    color: white;
+    background: #24126E;
+}
+
+::selection {
+    color: white;
+    background: #24126E;
+}
+
+.login_form {
+    max-width: 500px;
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 0.5rem;
+    background-image: url("../images/gray-thing.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+
+.homescreen_banner {
+    width: 100%;
+    background-image: url("../images/fakurian-design-u8Jn2rzYIps-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.image_background {
+    background-image: url("../images/fakurian-design-u8Jn2rzYIps-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
